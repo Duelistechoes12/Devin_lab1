@@ -2,10 +2,14 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
     std::cout << "Hello World Devin! This is my first Git commit\n";
+    cout << "Git makes collaboration easy! " << endl;
+
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
